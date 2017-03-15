@@ -6,9 +6,9 @@ Include
 - Get Started
 - Python Threading
 - Tkinter
+- Multi Processing
 
 Future Plan
 ------------
-- Multi Processing
 - Numpy & Pandas
 - Matplotlib
