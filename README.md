@@ -7,8 +7,8 @@ Include
 - Python Threading
 - Tkinter
 - Multi Processing
+- Numpy & Pandas
 
 Future Plan
 ------------
-- Numpy & Pandas
 - Matplotlib
