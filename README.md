@@ -8,7 +8,8 @@ Include
 - Tkinter
 - Multi Processing
 - Numpy & Pandas
+- Matplotlib
 
 Future Plan
 ------------
-- Matplotlib
+
