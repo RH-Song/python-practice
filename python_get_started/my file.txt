@@ -1,5 +1,0 @@
-This is my first test.
-This is next line.
-This is the last line.
-
-This is append text.
